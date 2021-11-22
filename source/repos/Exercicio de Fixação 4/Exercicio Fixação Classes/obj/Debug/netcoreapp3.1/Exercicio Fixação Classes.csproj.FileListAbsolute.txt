@@ -1,0 +1,13 @@
+C:\Users\antonio.fonseca\source\repos\Exercicio de Fixação 4\Exercicio Fixação Classes\bin\Debug\netcoreapp3.1\Exercicio Fixação Classes.exe
+C:\Users\antonio.fonseca\source\repos\Exercicio de Fixação 4\Exercicio Fixação Classes\bin\Debug\netcoreapp3.1\Exercicio Fixação Classes.deps.json
+C:\Users\antonio.fonseca\source\repos\Exercicio de Fixação 4\Exercicio Fixação Classes\bin\Debug\netcoreapp3.1\Exercicio Fixação Classes.runtimeconfig.json
+C:\Users\antonio.fonseca\source\repos\Exercicio de Fixação 4\Exercicio Fixação Classes\bin\Debug\netcoreapp3.1\Exercicio Fixação Classes.runtimeconfig.dev.json
+C:\Users\antonio.fonseca\source\repos\Exercicio de Fixação 4\Exercicio Fixação Classes\bin\Debug\netcoreapp3.1\Exercicio Fixação Classes.dll
+C:\Users\antonio.fonseca\source\repos\Exercicio de Fixação 4\Exercicio Fixação Classes\bin\Debug\netcoreapp3.1\Exercicio Fixação Classes.pdb
+C:\Users\antonio.fonseca\source\repos\Exercicio de Fixação 4\Exercicio Fixação Classes\obj\Debug\netcoreapp3.1\Exercicio Fixação Classes.csproj.AssemblyReference.cache
+C:\Users\antonio.fonseca\source\repos\Exercicio de Fixação 4\Exercicio Fixação Classes\obj\Debug\netcoreapp3.1\Exercicio Fixação Classes.AssemblyInfoInputs.cache
+C:\Users\antonio.fonseca\source\repos\Exercicio de Fixação 4\Exercicio Fixação Classes\obj\Debug\netcoreapp3.1\Exercicio Fixação Classes.AssemblyInfo.cs
+C:\Users\antonio.fonseca\source\repos\Exercicio de Fixação 4\Exercicio Fixação Classes\obj\Debug\netcoreapp3.1\Exercicio Fixação Classes.csproj.CoreCompileInputs.cache
+C:\Users\antonio.fonseca\source\repos\Exercicio de Fixação 4\Exercicio Fixação Classes\obj\Debug\netcoreapp3.1\Exercicio Fixação Classes.dll
+C:\Users\antonio.fonseca\source\repos\Exercicio de Fixação 4\Exercicio Fixação Classes\obj\Debug\netcoreapp3.1\Exercicio Fixação Classes.pdb
+C:\Users\antonio.fonseca\source\repos\Exercicio de Fixação 4\Exercicio Fixação Classes\obj\Debug\netcoreapp3.1\Exercicio Fixação Classes.genruntimeconfig.cache

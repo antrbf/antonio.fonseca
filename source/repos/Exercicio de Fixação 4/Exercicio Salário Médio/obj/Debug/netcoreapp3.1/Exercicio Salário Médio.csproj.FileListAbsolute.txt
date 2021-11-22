@@ -1,0 +1,12 @@
+C:\Users\antonio.fonseca\source\repos\Exercicio de Fixação 4\Exercicio Salário Médio\bin\Debug\netcoreapp3.1\Exercicio Salário Médio.exe
+C:\Users\antonio.fonseca\source\repos\Exercicio de Fixação 4\Exercicio Salário Médio\bin\Debug\netcoreapp3.1\Exercicio Salário Médio.deps.json
+C:\Users\antonio.fonseca\source\repos\Exercicio de Fixação 4\Exercicio Salário Médio\bin\Debug\netcoreapp3.1\Exercicio Salário Médio.runtimeconfig.json
+C:\Users\antonio.fonseca\source\repos\Exercicio de Fixação 4\Exercicio Salário Médio\bin\Debug\netcoreapp3.1\Exercicio Salário Médio.runtimeconfig.dev.json
+C:\Users\antonio.fonseca\source\repos\Exercicio de Fixação 4\Exercicio Salário Médio\bin\Debug\netcoreapp3.1\Exercicio Salário Médio.dll
+C:\Users\antonio.fonseca\source\repos\Exercicio de Fixação 4\Exercicio Salário Médio\bin\Debug\netcoreapp3.1\Exercicio Salário Médio.pdb
+C:\Users\antonio.fonseca\source\repos\Exercicio de Fixação 4\Exercicio Salário Médio\obj\Debug\netcoreapp3.1\Exercicio Salário Médio.AssemblyInfoInputs.cache
+C:\Users\antonio.fonseca\source\repos\Exercicio de Fixação 4\Exercicio Salário Médio\obj\Debug\netcoreapp3.1\Exercicio Salário Médio.AssemblyInfo.cs
+C:\Users\antonio.fonseca\source\repos\Exercicio de Fixação 4\Exercicio Salário Médio\obj\Debug\netcoreapp3.1\Exercicio Salário Médio.csproj.CoreCompileInputs.cache
+C:\Users\antonio.fonseca\source\repos\Exercicio de Fixação 4\Exercicio Salário Médio\obj\Debug\netcoreapp3.1\Exercicio Salário Médio.dll
+C:\Users\antonio.fonseca\source\repos\Exercicio de Fixação 4\Exercicio Salário Médio\obj\Debug\netcoreapp3.1\Exercicio Salário Médio.pdb
+C:\Users\antonio.fonseca\source\repos\Exercicio de Fixação 4\Exercicio Salário Médio\obj\Debug\netcoreapp3.1\Exercicio Salário Médio.genruntimeconfig.cache

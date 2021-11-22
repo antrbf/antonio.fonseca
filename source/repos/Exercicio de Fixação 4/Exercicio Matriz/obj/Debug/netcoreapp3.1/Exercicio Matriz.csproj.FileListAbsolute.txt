@@ -1,0 +1,12 @@
+C:\Users\antonio.fonseca\source\repos\Exercicio de Fixação 4\Exercicio Matriz\bin\Debug\netcoreapp3.1\Exercicio Matriz.exe
+C:\Users\antonio.fonseca\source\repos\Exercicio de Fixação 4\Exercicio Matriz\bin\Debug\netcoreapp3.1\Exercicio Matriz.deps.json
+C:\Users\antonio.fonseca\source\repos\Exercicio de Fixação 4\Exercicio Matriz\bin\Debug\netcoreapp3.1\Exercicio Matriz.runtimeconfig.json
+C:\Users\antonio.fonseca\source\repos\Exercicio de Fixação 4\Exercicio Matriz\bin\Debug\netcoreapp3.1\Exercicio Matriz.runtimeconfig.dev.json
+C:\Users\antonio.fonseca\source\repos\Exercicio de Fixação 4\Exercicio Matriz\bin\Debug\netcoreapp3.1\Exercicio Matriz.dll
+C:\Users\antonio.fonseca\source\repos\Exercicio de Fixação 4\Exercicio Matriz\bin\Debug\netcoreapp3.1\Exercicio Matriz.pdb
+C:\Users\antonio.fonseca\source\repos\Exercicio de Fixação 4\Exercicio Matriz\obj\Debug\netcoreapp3.1\Exercicio Matriz.AssemblyInfoInputs.cache
+C:\Users\antonio.fonseca\source\repos\Exercicio de Fixação 4\Exercicio Matriz\obj\Debug\netcoreapp3.1\Exercicio Matriz.AssemblyInfo.cs
+C:\Users\antonio.fonseca\source\repos\Exercicio de Fixação 4\Exercicio Matriz\obj\Debug\netcoreapp3.1\Exercicio Matriz.csproj.CoreCompileInputs.cache
+C:\Users\antonio.fonseca\source\repos\Exercicio de Fixação 4\Exercicio Matriz\obj\Debug\netcoreapp3.1\Exercicio Matriz.dll
+C:\Users\antonio.fonseca\source\repos\Exercicio de Fixação 4\Exercicio Matriz\obj\Debug\netcoreapp3.1\Exercicio Matriz.pdb
+C:\Users\antonio.fonseca\source\repos\Exercicio de Fixação 4\Exercicio Matriz\obj\Debug\netcoreapp3.1\Exercicio Matriz.genruntimeconfig.cache

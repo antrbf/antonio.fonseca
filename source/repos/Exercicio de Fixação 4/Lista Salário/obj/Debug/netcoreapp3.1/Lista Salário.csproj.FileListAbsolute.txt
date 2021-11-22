@@ -1,0 +1,13 @@
+C:\Users\antonio.fonseca\source\repos\Exercicio de Fixação 4\Lista Salário\bin\Debug\netcoreapp3.1\Lista Salário.exe
+C:\Users\antonio.fonseca\source\repos\Exercicio de Fixação 4\Lista Salário\bin\Debug\netcoreapp3.1\Lista Salário.deps.json
+C:\Users\antonio.fonseca\source\repos\Exercicio de Fixação 4\Lista Salário\bin\Debug\netcoreapp3.1\Lista Salário.runtimeconfig.json
+C:\Users\antonio.fonseca\source\repos\Exercicio de Fixação 4\Lista Salário\bin\Debug\netcoreapp3.1\Lista Salário.runtimeconfig.dev.json
+C:\Users\antonio.fonseca\source\repos\Exercicio de Fixação 4\Lista Salário\bin\Debug\netcoreapp3.1\Lista Salário.dll
+C:\Users\antonio.fonseca\source\repos\Exercicio de Fixação 4\Lista Salário\bin\Debug\netcoreapp3.1\Lista Salário.pdb
+C:\Users\antonio.fonseca\source\repos\Exercicio de Fixação 4\Lista Salário\obj\Debug\netcoreapp3.1\Lista Salário.AssemblyInfoInputs.cache
+C:\Users\antonio.fonseca\source\repos\Exercicio de Fixação 4\Lista Salário\obj\Debug\netcoreapp3.1\Lista Salário.AssemblyInfo.cs
+C:\Users\antonio.fonseca\source\repos\Exercicio de Fixação 4\Lista Salário\obj\Debug\netcoreapp3.1\Lista Salário.csproj.CoreCompileInputs.cache
+C:\Users\antonio.fonseca\source\repos\Exercicio de Fixação 4\Lista Salário\obj\Debug\netcoreapp3.1\Lista Salário.dll
+C:\Users\antonio.fonseca\source\repos\Exercicio de Fixação 4\Lista Salário\obj\Debug\netcoreapp3.1\Lista Salário.pdb
+C:\Users\antonio.fonseca\source\repos\Exercicio de Fixação 4\Lista Salário\obj\Debug\netcoreapp3.1\Lista Salário.genruntimeconfig.cache
+C:\Users\antonio.fonseca\source\repos\Exercicio de Fixação 4\Lista Salário\obj\Debug\netcoreapp3.1\Lista Salário.csproj.AssemblyReference.cache
